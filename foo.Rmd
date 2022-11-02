@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "New Title"
+=======
+title: "Untitled"
+>>>>>>> master
 author: "Amber Somarirba"
 date: '2022-11-02'
 output: html_document
@@ -7,9 +11,12 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+<<<<<<< HEAD
 
 library(tidyverse)
 library(palmerpenguins)
+=======
+>>>>>>> master
 ```
 
 ## R Markdown
